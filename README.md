@@ -45,7 +45,9 @@ Sou graduanda em **Análise e Desenvolvimento de Sistemas** (Univap) e graduada 
 
 ### 📫 Conecte-se Comigo
 
-[![LinkedIn](https://www.linkedin.com/in/gabriele-rigobeli/)
-[![E-mail](grs.sjc@gmail)
+.[![whatsapp](12 98204-7278)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-rigobeli/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](grs.sjc@gmail.com)
+
 
 📍 São José dos Campos – SP, Brasil
