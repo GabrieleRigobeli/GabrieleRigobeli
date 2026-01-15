@@ -35,12 +35,10 @@ Sou graduanda em **Análise e Desenvolvimento de Sistemas** (Univap) e graduada 
 
 ### 📂 Projetos em Destaque
 
-> 📌 *Dica: Clique nos links abaixo para explorar os repositórios.*
+> 📌 *Dica: Clique nos links abaixo para explorar alguns dos repositórios.*
 
-* **[Nome do Projeto 1]**: Descrição curta do que o projeto faz e tecnologias usadas.
-* **[(https://github.com/GabrieleRigobeli/HTML-na-Pr-tica)]**: Descrição curta focado em lógica de programação ou automação.
-* **[Estudos de Linux]**: Scripts e anotações sobre administração de sistemas.
-
+* **(https://github.com/GabrieleRigobeli/HTML-na-Pr-tica)**: Uma Landing Page moderna e responsiva desenvolvida como parte dos meus estudos em Desenvolvimento Web e UI Design. O projeto utiliza técnicas de Glassmorphism e organização de código limpo.
+* **(https://gabrielerigobeli.github.io/A-Turma-do-Zinho-/)**: * Landing Page institucional para um teatro cristão lúdico. Destaques: Menu interativo (dropdown), galeria de fotos organizada e vídeos integrados do YouTube
 ---
 
 ### 📫 Conecte-se Comigo
