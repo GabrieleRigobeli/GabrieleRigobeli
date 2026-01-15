@@ -37,7 +37,7 @@ Sou graduanda em **Análise e Desenvolvimento de Sistemas** (Univap) e graduada 
 
 > 📌 *Dica: Clique nos links abaixo para explorar alguns dos repositórios.*
 
-* **(https://github.com/GabrieleRigobeli/HTML-na-Pr-tica)**: Uma Landing Page moderna e responsiva desenvolvida como parte dos meus estudos em Desenvolvimento Web e UI Design. O projeto utiliza técnicas de Glassmorphism e organização de código limpo.
+* **(https://gabrielerigobeli.github.io/html-na-pratica/)**: Uma Landing Page moderna e responsiva desenvolvida como parte dos meus estudos em Desenvolvimento Web e UI Design. O projeto utiliza técnicas de Glassmorphism e organização de código limpo.
 * **(https://gabrielerigobeli.github.io/A-Turma-do-Zinho-/)**: * Landing Page institucional para um teatro cristão lúdico. Destaques: Menu interativo (dropdown), galeria de fotos organizada e vídeos integrados do YouTube
 ---
 
