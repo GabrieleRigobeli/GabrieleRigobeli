@@ -7,7 +7,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (UNIVAP) focada em **Desenvo
 * **[Agenda Escolar](https://gabrielerigobeli.github.io/Projeto-Desenvolvimento-de-Aplica-o-Web---Agenda-Escolar/)** - Aplicação Web para organização de rotinas estudantis.
 * **[CI/CD](https://github.com/GabrieleRigobeli/CI-CD)** - Este projeto demonstra a implementação de fluxos de Integração Contínua e Entrega Contínua (CI/CD).
 * **[HTML na Prática](https://gabrielerigobeli.github.io/html-na-pratica/)** - Uma Landing Page moderna e responsiva desenvolvida como parte dos meus estudos em Desenvolvimento Web e UI Design. O projeto utiliza técnicas de Glassmorphism e organização de código limpo.
-* **[HTML na Prática](https://gabrielerigobeli.github.io/A-Turma-do-Zinho-/)** - Landing Page institucional para um teatro cristão lúdico.
+* **[Web Front-end & UX Architecture](https://gabrielerigobeli.github.io/A-Turma-do-Zinho-/)** - Landing Page institucional para um teatro cristão lúdico.
   Destaques: Menu interativo (dropdown), galeria de fotos organizada e vídeos integrados do YouTube.
 
 ### Tecnologias e Ferramentas:
