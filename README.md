@@ -1,18 +1,85 @@
-# Olá, eu sou a Gabriele Rigobeli ! 👋
+👋 Olá, eu sou Gabriele Rigobeli
 
-Estudante de Análise e Desenvolvimento de Sistemas (UNIVAP) focada em **Desenvolvimento de Software e DevOps**.
+🎓 Graduanda em Análise e Desenvolvimento de Sistemas pela Univap e Graduada em Secretariado Executivo pela Uninter.
+📍 São José dos Campos – SP, Brasil
 
-### Meus Projetos em Destaque:
-* **[Minha Biografia & Portfólio](https://gabrielerigobeli.github.io/minha-biografia/)** - Página pessoal detalhando minhas competências e formação.
-* **[Agenda Escolar](https://gabrielerigobeli.github.io/Projeto-Desenvolvimento-de-Aplica-o-Web---Agenda-Escolar/)** - Aplicação Web para organização de rotinas estudantis.
-* **[CI/CD](https://github.com/GabrieleRigobeli/CI-CD)** - Este projeto demonstra a implementação de fluxos de Integração Contínua e Entrega Contínua (CI/CD).
-* **[HTML na Prática](https://gabrielerigobeli.github.io/html-na-pratica/)** - Uma Landing Page moderna e responsiva desenvolvida como parte dos meus estudos em Desenvolvimento Web e UI Design. O projeto utiliza técnicas de Glassmorphism e organização de código limpo.
-* **[Web Front-end & UX Architecture](https://gabrielerigobeli.github.io/A-Turma-do-Zinho-/)** - Landing Page institucional para um teatro cristão lúdico.
-  Destaques: Menu interativo (dropdown), galeria de fotos organizada e vídeos integrados do YouTube.
+🚀 Sobre mim
 
-### Tecnologias e Ferramentas:
-* HTML5 | CSS3 | JavaScript | Python (básico)
-* Git | GitHub | Metodologias Ágeis (Scrum/Kanban)
+Sou profissional em transição de carreira para a área de Tecnologia da Informação, com experiência anterior na área administrativa e foco atual na automação de processos, integração e entrega contínua 
+(CI/CD), versionamento de código e suporte a ambientes Linux. Busco uma oportunidade para aplicar conhecimentos em Git, Linux, Shell Script e fundamentos de containers, colaborar com times de desenvolvimento e infraestrutura, e evoluir tecnicamente em práticas DevOps, agregando valor por meio da organização, melhoria contínua e aprendizado constante.
 
-**Contato:** 12 98204-7278
-**E-mail:** grs.sjc@gmail.com
+Atualmente, estou dedicada ao meu desenvolvimento técnico por meio de cursos, bootcamps e projetos práticos, buscando aplicar na prática os conhecimentos adquiridos e evoluir constantemente. Tenho facilidade para aprender, sou organizada, comprometida e gosto de transformar ideias em soluções simples e funcionais.
+
+Meu objetivo é atuar como desenvolvedora trainee / júnior contribuindo com o time, aprendendo com profissionais mais experientes e crescendo junto com a empresa.
+
+🛠️ Tecnologias e Conhecimentos
+
+Desenvolvimento Web
+
+HTML5 (semântica, formulários, acessibilidade)
+
+CSS3 (layout, responsividade, boas práticas)
+
+Noções de JavaScript
+
+Sistemas & Dados
+
+Lógica de programação
+
+Análise e levantamento de requisitos
+
+Modelagem básica de bancos de dados
+
+Metodologias Ágeis
+
+Scrum (fundamentos, papéis e cerimônias)
+
+Kanban e gestão visual de tarefas
+
+Ambiente Linux
+
+Terminal Linux
+
+Gerenciamento de arquivos, usuários e permissões
+
+Acesso remoto via SSH
+
+Prototipação & UX
+
+Prototipação de apps
+
+Low Code
+
+UX/UI básico e fluxos de usuário
+
+📚 Cursos e Bootcamps
+
+Bootcamp Desenvolvimento Web Responsivo – UNIVAP
+
+Bootcamp Análise de Sistemas e Banco de Dados – UNIVAP
+
+Bootcamp Inovação, Prototipação e IoT – UNIVAP
+
+Bootcamp Prototipação de Apps Low Code – UNIVAP
+
+Formação HTML (do básico ao prático) – DIO
+
+Linux Fundamentals – DIO
+
+Scrum & Kanban – DIO e FGV
+
+📂 Projetos
+
+📌 Aqui você encontrará projetos acadêmicos e pessoais focados em:
+
+Estruturação de páginas web com HTML e CSS
+
+Formulários e boas práticas de front-end
+
+Protótipos de aplicações e fluxos de usuário
+
+Exercícios práticos de lógica e organização de código
+
+(Estou constantemente adicionando novos projetos conforme avanço nos estudos 🚀)
+
+📫 Contato
