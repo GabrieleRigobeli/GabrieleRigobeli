@@ -38,16 +38,15 @@ Sou graduanda em **Análise e Desenvolvimento de Sistemas** (Univap) e graduada 
 > 📌 *Dica: Clique nos links abaixo para explorar os repositórios.*
 
 * **[Nome do Projeto 1]**: Descrição curta do que o projeto faz e tecnologias usadas.
-* **[Nome do Projeto 2]**: Descrição curta focado em lógica de programação ou automação.
+* **[(https://github.com/GabrieleRigobeli/HTML-na-Pr-tica)]**: Descrição curta focado em lógica de programação ou automação.
 * **[Estudos de Linux]**: Scripts e anotações sobre administração de sistemas.
 
 ---
 
 ### 📫 Conecte-se Comigo
 
-.[![whatsapp](12 98204-7278)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-rigobeli/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](grs.sjc@gmail.com)
-
+*Contato:* 12 98204-7278
 
 📍 São José dos Campos – SP, Brasil
