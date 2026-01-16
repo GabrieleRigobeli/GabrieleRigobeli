@@ -40,6 +40,8 @@ Sou graduanda em **Análise e Desenvolvimento de Sistemas** (Univap) e graduada 
 * **(https://gabrielerigobeli.github.io/ci-cd-github-actions/)**: Este repositório demonstra a criação de uma pipeline automatizada, acionada a cada push no repositório, simulando etapas reais de um fluxo DevOps.
 * **(https://gabrielerigobeli.github.io/docker-devops-basico/)**: * Aplicação HTML simples rodando dentro de um container Docker com NGINX.
 * **(https://gabrielerigobeli.github.io/deploy-github-actions-pages/)**: * Este projeto foi criado com o objetivo de praticar conceitos fundamentais de **DevOps**, utilizando **GitHub Actions** para automatizar o **deploy contínuo** de uma aplicação web estática no **GitHub Pages**. A cada novo *push* na branch `main`, uma **pipeline automática** é executada, publicando a versão atualizada do site sem intervenção manual.
+* **(https://gabrielerigobeli.github.io/A-Turma-do-Zinho-/)**: Este repositório contém o código de um site estático institucional desenvolvido com HTML e CSS, criado como parte de um trabalho ou projeto de apresentação. O site apresenta conteúdo visual, galeria de imagens e informações sobre temas relacionados à “Turma do Zinho”, com navegação simples e interativa.
+O objetivo principal foi aplicar boas práticas de estruturação HTML e design responsivo com CSS para criar um site informativo e agradável.
 
 ---
 
