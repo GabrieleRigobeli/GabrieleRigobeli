@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou a Gabriele Rigobeli
 
-### 🚀 Em transição de carreira para Tecnologia | Foco em DevOps & Infraestrutura
+### 🚀 Em transição de carreira para a área de Tecnologia
 
-Sou graduanda em **Análise e Desenvolvimento de Sistemas** (Univap) e graduada em **Secretariado Executivo** (Uninter). Unindo minha experiência administrativa com a paixão por tecnologia, busco atuar como **Desenvolvedora Júnior/Trainee**, com foco em automação, Linux e práticas modernas de desenvolvimento.
+Sou estudande de **Análise e Desenvolvimento de Sistemas** (Univap) e graduada em **Secretariado** (Uninter). Unindo minha experiência administrativa com a paixão por tecnologia, busco atuar como **Desenvolvedora Júnior/Trainee**, com foco em automação, Linux e práticas modernas de desenvolvimento.
 
 ---
 
