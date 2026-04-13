@@ -37,8 +37,7 @@ Sou estudande de **Análise e Desenvolvimento de Sistemas** (Univap) e graduada 
 
 > 📌 *Dica: Clique nos links abaixo para explorar alguns dos repositórios.*
 
-* **(https://gabrielerigobeli.github.io/smarthorta/)**: Sistema de irrigação automatizada com foco em aplicação social, desenvolvido para otimizar o uso de água e facilitar o cuidado com plantas. Projeto com potencial de integração com IoT e automação.
-* **(https://github.com/GabrieleRigobeli/smarthorta)**: Código
+* **(https://gabrielerigobeli.github.io/smarthorta/)**: Sistema de irrigação automatizada com foco em aplicação social, desenvolvido para otimizar o uso de água e facilitar o cuidado com plantas. Projeto com potencial de integração com IoT e automação. (https://github.com/GabrieleRigobeli/smarthorta)**: Código
 * **(https://gabrielerigobeli.github.io/docker-devops-basico/)**: * Aplicação HTML simples rodando dentro de um container Docker com NGINX.
 * **(https://gabrielerigobeli.github.io/deploy-github-actions-pages/)**: * Este projeto foi criado com o objetivo de praticar conceitos fundamentais de **DevOps**, utilizando **GitHub Actions** para automatizar o **deploy contínuo** de uma aplicação web estática no **GitHub Pages**. A cada novo *push* na branch `main`, uma **pipeline automática** é executada, publicando a versão atualizada do site sem intervenção manual.
 * **(https://gabrielerigobeli.github.io/A-Turma-do-Zinho-/)**: Este repositório contém o código de um site estático institucional desenvolvido com HTML e CSS, criado como parte de um trabalho ou projeto de apresentação. O site apresenta conteúdo visual, galeria de imagens e informações sobre temas relacionados à “Turma do Zinho”, com navegação simples e interativa.
