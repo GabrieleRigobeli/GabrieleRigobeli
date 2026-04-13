@@ -48,7 +48,7 @@ O objetivo principal foi aplicar boas práticas de estruturação HTML e design 
 ### 📫 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-rigobeli/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grs.sjcl@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:) grs.sjc@gmail.com
 *Contato:* 12 98204-7278
 
 📍 São José dos Campos – SP, Brasil
